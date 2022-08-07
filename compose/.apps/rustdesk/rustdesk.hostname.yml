@@ -1,3 +1,0 @@
-services:
-  rustdesk:
-    hostname: ${DOCKERHOSTNAME}

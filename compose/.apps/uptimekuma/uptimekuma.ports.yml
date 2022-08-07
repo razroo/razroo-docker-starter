@@ -1,4 +1,0 @@
-services:
-  uptimekuma:
-    ports:
-      - ${UPTIMEKUMA_PORT_3001}:3001

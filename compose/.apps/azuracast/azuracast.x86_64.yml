@@ -1,3 +1,0 @@
-services:
-  azuracast:
-    image: ghcr.io/azuracast/azuracast:${AZURACAST_RELEASE_CHANNEL}
